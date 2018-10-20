@@ -1,5 +1,5 @@
 _repo: Journeys-Through-Bookland-Vol-3_5902
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Children''s literature'
 - !lcc 'PZ'
 - !lcsh 'Literature -- Collections'
+- GITenberg
 title: Journeys Through Bookland, Vol. 3
 url: http://www.gutenberg.org/ebooks/5902
